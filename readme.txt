@@ -13,5 +13,5 @@ automatically! To migrate to a newer version of the template, re-create the temp
 
 For more information and documentation of all template features, please refer to the SAPUI5 Demo Kit:
 https://sapui5.hana.ondemand.com/#/topic/a460a7348a6c431a8bd967ab9fb8d918
-
+Dwaipayan Saha
 #### Happy Development! ####
