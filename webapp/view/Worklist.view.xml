@@ -1,4 +1,4 @@
-<mvc:View
+	<mvc:View
 	controllerName="Northwind.ProductsData.controller.Worklist"
 	xmlns="sap.m"
 	xmlns:mvc="sap.ui.core.mvc"
